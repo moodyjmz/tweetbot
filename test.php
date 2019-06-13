@@ -1,1 +1,1 @@
-<?php phphinfo() ?>
+<?php phpinfo() ?>
